@@ -158,6 +158,7 @@ help/type
 help/usage
 .hsrc
 junk4200
+len_bits.h
 libcalc.*
 libcustcalc.*
 ll_tmp
